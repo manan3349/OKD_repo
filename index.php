@@ -1,4 +1,6 @@
-<? php
-  print " Wellcome to the OKD platform!!! "
-  
-  ?>
+<?php
+
+
+print "Welcome to OCP second !!";
+
+?>
